@@ -114,5 +114,5 @@ EMAIL_HOST = "smtp.gmail.com"
 EMAIL_USE_TLS = True
 EMAIL_PORT = 587
 EMAIL_HOST_USER = "codedbydaniel@gmail.com"
-EMAIL_HOST_PASSWORD = "zyui kgeg nsny glro"
+EMAIL_HOST_PASSWORD = "psbt umnw fdeg uvjt"
 DEFAULT_FROM_EMAIL = "codedbydaniel@gmail.com"
